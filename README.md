@@ -2,6 +2,8 @@
 
 > An end-to-end, tool-using agentic chatbot built with **LangGraph**, **FastAPI**, and **Streamlit** — containerized with **Docker**.
 
+Made By Ubed Khan 
+
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.141.1-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1.4.2-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
