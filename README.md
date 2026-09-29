@@ -145,7 +145,7 @@ uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 streamlit run ui/streamlit_app.py
 ```
 
-- 📄 BACKEND_URL = https://agentic-chatbot-imog.onrender.coms
+- 📄 BACKEND_URL = https://agentic-chatbot-imog.onrender.com
 - 💬 Chat UI →https://agentic-chatbot-msey.onrender.com/
 
 ---
